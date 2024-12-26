@@ -30,3 +30,4 @@ elif(computer==-1 and You== 1):
     print("You LOSE !")
 
 print("Your Choies : " + Rev_Dictionary[You]+"\n Computer Choies : " + Rev_Dictionary[computer])
+print()
